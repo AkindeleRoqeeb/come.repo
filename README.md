@@ -1,2 +1,3 @@
-# come.repo
-come for Github intro video
+## starting programming.....
+
+# all data structure and algorithms..
